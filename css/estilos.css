@@ -1,0 +1,81 @@
+
+    p{
+        font-size: 14px;
+        font-weight: bold;
+        font-family: verdana;
+        color:blueviolet;
+    }
+
+    body{
+        background-color:rgb(156, 151, 151);
+    }
+
+    .menu{
+        font-size: 14px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bold ;
+        color: blue;
+    }
+
+    .lista{
+        font-size: 12px;
+        color: indianred;
+        font-family: georgia;
+    }
+
+    label{
+        font-size: 12px;
+        font-family: geneva;
+        color:blueviolet;
+    }
+
+    #formulario_cadastro{
+        background-color: burlywood;
+    }
+
+    /* .campo_nome{
+        color: red;
+        background-color: darkkhaki;
+        font-family: arial;
+        position: absolute;
+        left: 70px;
+        width: 200px;
+
+    }
+    .campo_email{
+        color: red;
+        background-color: darkkhaki;
+        font-family: arial;
+        position: absolute;
+        left: 70px;
+        width: 280px;
+
+    }
+    .campo_senha{
+        color: red;
+        background-color: darkkhaki;
+        font-family: arial;
+        position: absolute;
+        left: 70px;
+        width: 80px;
+
+    }*/
+
+    /*
+    .container{
+        border: 3px solid brown;
+        width: 500px;
+    }
+
+    .div1{
+        background-color: red;
+    }
+    .div2{
+        background-color:yellow;
+    }
+    .div3{
+        background-color:green;
+    }
+    .div4{
+        background-color:blue;
+    }*/
